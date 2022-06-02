@@ -1,21 +1,12 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  background-color: #282c34;
+  color: white;
 }
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 50vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -24,8 +15,56 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.Container-Nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 10vh;
+  background-color: #47494d;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #0f1d3a;
+  min-height: 80vh;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+}
+.About {
+  margin: 10px;
+  padding: 10px;
+}
+
+.card-deck {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  border: 2px solid #fff;
+  margin: 10px;
+  height: 20vh;
+  width: 50%;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.my-footer {
+  background: #47494d;
+  padding: 10px;
+  height: 5em;
 }
 
 @keyframes App-logo-spin {
