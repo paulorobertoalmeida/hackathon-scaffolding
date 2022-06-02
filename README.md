@@ -1,4 +1,4 @@
-# Hackathon Scaffolding
+# Hackathon Scaffolding Typescript
 
 <div id="top"></div>
 <!--
@@ -35,7 +35,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Hackathon Scaffolding Typescript</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -107,12 +107,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
+* [Typescript.js](https://www.typescriptlang.org)
 * [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
